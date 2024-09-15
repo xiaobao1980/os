@@ -128,6 +128,8 @@ on:
         - lime2
         - longanpi-4b
         - lubancat2
+        - lubancat-2
+        - lubancat-2io
         - macchiatobin-doubleshot
         - mangopi-m28k
         - mba8mpxl-ras314
@@ -254,6 +256,7 @@ on:
         - rockpi-n10
         - rockpi-s
         - rockpro64
+        - roceos-k50s
         - rpi4b
         - rpi5b
         - sakurapi-rk3308b
