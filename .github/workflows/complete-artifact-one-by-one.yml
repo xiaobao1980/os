@@ -17,6 +17,7 @@ on:
         description: 'Kernel branch'
         options:
         - legacy
+        - vendor
         - current
         - edge
         default: 'current'
