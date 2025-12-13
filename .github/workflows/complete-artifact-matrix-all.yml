@@ -3,9 +3,9 @@
 
 name: "Build All Artifacts (cronjob)"
 
-on:
-  schedule:
-   - cron: '0 */8 * * *'
+#on:
+#  schedule:
+#   - cron: '0 */8 * * *'
   workflow_call:
     inputs:
       ref:                      # commit id
